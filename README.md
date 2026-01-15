@@ -4,4 +4,6 @@ echo "# My Devops Portfolio"
        i hope to become one of the top devops engineer in the world by year 2027, earning over 
        $500,000 per year.
      
-     Add Link : [About Me](about.md) 
+     Add Link : [About Me](about.md)
+     Add Projects "## Project- Git Basics".
+ 
